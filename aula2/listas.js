@@ -34,3 +34,5 @@ console.log(`tenemos ${cantidadCiduades} ciudades disponibles`);
 // eliminar elemento de la lista
 ciudadesDisponibles.splice(1,1);
 console.log(ciudadesDisponibles);
+
+// Cambio realizado para practica de git
